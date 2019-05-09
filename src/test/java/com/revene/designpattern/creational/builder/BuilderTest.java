@@ -1,6 +1,4 @@
 package com.revene.designpattern.creational.builder;
 
-public class Builder {
-
-
+public class BuilderTest {
 }
